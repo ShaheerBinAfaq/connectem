@@ -1,0 +1,16 @@
+c:\users\huo\documents\visual studio 2013\Projects\ConnectEm\ConnectEm\bin\Debug\ConnectEm.exe.config
+c:\users\huo\documents\visual studio 2013\Projects\ConnectEm\ConnectEm\bin\Debug\ConnectEm.exe
+c:\users\huo\documents\visual studio 2013\Projects\ConnectEm\ConnectEm\bin\Debug\ConnectEm.pdb
+c:\users\huo\documents\visual studio 2013\Projects\ConnectEm\ConnectEm\obj\Debug\ConnectEm.csprojResolveAssemblyReference.cache
+c:\users\huo\documents\visual studio 2013\Projects\ConnectEm\ConnectEm\obj\Debug\ConnectEm.Form1.resources
+c:\users\huo\documents\visual studio 2013\Projects\ConnectEm\ConnectEm\obj\Debug\ConnectEm.Properties.Resources.resources
+c:\users\huo\documents\visual studio 2013\Projects\ConnectEm\ConnectEm\obj\Debug\ConnectEm.csproj.GenerateResource.Cache
+c:\users\huo\documents\visual studio 2013\Projects\ConnectEm\ConnectEm\obj\Debug\ConnectEm.exe
+c:\users\huo\documents\visual studio 2013\Projects\ConnectEm\ConnectEm\obj\Debug\ConnectEm.pdb
+C:\Users\huo\Documents\Visual Studio 2013\Projects\ConnectEm\ConnectEm\obj\Debug\ConnectEm.Form2.resources
+C:\Users\huo\Documents\Visual Studio 2013\Projects\ConnectEm\ConnectEm\obj\Debug\ConnectEm.Friends_List.resources
+C:\Users\huo\Documents\Visual Studio 2013\Projects\ConnectEm\ConnectEm\obj\Debug\ConnectEm.Home.resources
+C:\Users\huo\Documents\Visual Studio 2013\Projects\ConnectEm\ConnectEm\obj\Debug\ConnectEm.AddFriend.resources
+C:\Users\huo\Documents\Visual Studio 2013\Projects\ConnectEm\ConnectEm\obj\Debug\ConnectEm.RemoveFriend.resources
+C:\Users\huo\Documents\Visual Studio 2013\Projects\ConnectEm\ConnectEm\obj\Debug\ConnectEm.StartForm.resources
+C:\Users\huo\Documents\Visual Studio 2013\Projects\ConnectEm\ConnectEm\obj\Debug\ConnectEm.textMessage.resources
